@@ -1,2 +1,3 @@
-# oceans
-projects and code
+# This is a Dice game project
+
+
